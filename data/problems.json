@@ -1,0 +1,7 @@
+{
+    "greeting": ["hello", "hi", "hey"],
+    "stress": ["tired", "overwhelmed", "anxious", "stressed"],
+    "confidence": ["confident", "self-esteem", "self belief"],
+    "time_management": ["time", "schedule", "plan"],
+    "general": ["problem", "advice", "question"]
+}
